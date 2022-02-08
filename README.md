@@ -1,2 +1,2 @@
-# merge-conflicts
+# first-branch
 practice for git merge conflicts
