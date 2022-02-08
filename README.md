@@ -1,2 +1,2 @@
-# first-branch-attempt-2
+# second-branch
 practice for git merge conflicts
